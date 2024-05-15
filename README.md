@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 me chamo Gbriel eu sou anulo e estou 
+aprendendo coisas novas
 
 <!--
 **gabriel2b2/gabriel2b2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
